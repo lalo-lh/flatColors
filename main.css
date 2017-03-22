@@ -1,0 +1,177 @@
+/* Basics */
+/* complex */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif; }
+
+header h1 {
+  text-align: center; }
+
+section {
+  margin: 0;
+  padding: 0; }
+
+footer {
+  overflow: hidden;
+  width: 100%;
+  height: 30px; }
+  footer p {
+    text-align: right;
+    font-size: 0.6em; }
+
+.color {
+  width: 20%;
+  height: 150px;
+  margin: 0;
+  padding: 0;
+  float: left; }
+  .color p {
+    text-align: center;
+    color: #fff;
+    position: relative;
+    left: 10px;
+    top: 80px; }
+
+.silver {
+  background: #BFBFBF; }
+
+.white {
+  background: #ECECEC; }
+
+.red {
+  background: #EC4A41; }
+
+.blue {
+  background: #22A7F0; }
+
+.green {
+  background: #00CC7B; }
+
+.yellow {
+  background: #FFCC43; }
+
+.pomegranate {
+  background: #f22613; }
+
+.thunderbird {
+  background: #d91E18; }
+
+.old-brick {
+  background: #96281B; }
+
+.cinnabar {
+  background: #E74C3C; }
+
+.wax-flower {
+  background: #F1A9A0; }
+
+.cabaret {
+  background: #D2527F; }
+
+.newyorpink {
+  background: #E08283; }
+
+.radical-red {
+  background: #F62459; }
+
+.Medium-purple {
+  background: #BF55EC; }
+
+.studio {
+  background: #8E44AD; }
+
+.san-marino {
+  background: #446CB3; }
+
+.royal-blue {
+  background: #4183D7; }
+
+.picton-blue {
+  background: #22A7F0; }
+
+.shakespeare {
+  background: #52B3D9; }
+
+.spray {
+  background: #81CFE0; }
+
+.ming {
+  background: #336E7B; }
+
+.malibu {
+  background: #6BB9F0; }
+
+.steel-blue {
+  background: #4B77BE; }
+
+.summer-sky {
+  background: #1E8BC3; }
+
+.medium-turquoise {
+  background: #4ECDC4; }
+
+.gossip {
+  background: #87D37C; }
+
+.darkseagreen {
+  background: #90C695; }
+
+.eucalyptus {
+  background: #26A65B; }
+
+.caribbean-green {
+  background: #03C9A9; }
+
+.silver-tree {
+  background: #68C3A3; }
+
+.turquoise {
+  background: #36D7B7; }
+
+.lightseagrean {
+  background: #1BA39C; }
+
+.emerald {
+  background: #3FC380; }
+
+.california {
+  background: #F89406; }
+
+.jade {
+  background: #00B16A; }
+
+.saffron {
+  background: #F4D03F; }
+
+.casablanca {
+  background: #F4B350; }
+
+.tahiti-gold {
+  background: #E87E04; }
+
+.ecstasy {
+  background: #F9690E; }
+
+.sandstorm {
+  background: #F9BF3B; }
+
+.buttercup {
+  background: #F39C12; }
+
+.iron {
+  background: #DADFE1; }
+
+.edward {
+  background: #ABB7B7; }
+
+.gallery {
+  background: #EEEEEE; }
+
+.porcelain {
+  background: #ECF0F1; }
+
+.cascade {
+  background: #95A5A6; }
+
+/*# sourceMappingURL=main.css.map */
